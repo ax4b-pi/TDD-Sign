@@ -1,0 +1,16 @@
+{
+  "name": "sign-project",
+  "version": "1.0.0",
+  "description": "TDD do projeto sign",
+  "main": "index.js",
+  "scripts": {
+    "test": "jest"
+  },
+  "author": "Guilherme e Esther",
+  "license": "ISC",
+  "dependencies": {
+    "jest": "^27.0.3",
+    "mysql": "^2.18.1",
+    "mysql2": "^2.2.5"
+  }
+}
