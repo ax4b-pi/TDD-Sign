@@ -89,6 +89,6 @@ describe('Envelope e Documentos', function (){
 
 //         expect(await db.consultarCliente(mysql, contactId)).toBe(false);
 //     });
-// });
+/// });
 
 
